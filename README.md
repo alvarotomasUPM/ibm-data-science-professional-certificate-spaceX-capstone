@@ -33,6 +33,9 @@ My job is to determine the price of each launch. I have to do this by gathering 
 - [Data Wrangling](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb)
 
 ##  Week 2 : Exploratory Data Analysis (EDA)<a name = "week2">
+
+- [Exploratory Analysis Using SQL](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/jupyter-labs-eda-sql-coursera.ipynb)
+- [Exploratory Analysis Using Pandas and Matplotlib](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/jupyter-labs-eda-dataviz.ipynb)  
   
 ##  Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
   
