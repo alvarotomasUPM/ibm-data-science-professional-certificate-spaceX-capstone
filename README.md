@@ -23,10 +23,6 @@ My job is to determine the price of each launch. I have to do this by gathering 
 - [Week 3](#week3)
 - [Week 4](#week4)
 - [Week 5](#week5)
-- [Out of the Box Thinking](#outofbox)
-- [Technology Stack](#tech_stack)
-- [Tips & Tricks](#tips_tricks)
-- [Extra Study Materials](#extra_study)
 
 ##   Week 1 : Data Collection and Wrangling<a name = "week1"></a>
 
@@ -44,8 +40,12 @@ My job is to determine the price of each launch. I have to do this by gathering 
  - [Interactive Visual Analytics with Folium](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
   
 ##  Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
+ 
+- [Machine Learning Prediction](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
   
 ##  Week 5 : Present Your Data-Driven Insights <a name = "week5"></a>
+ 
+ 
   
   
   
