@@ -10,9 +10,10 @@ I have taken on the role of a Data Scientist working for a startup that intends 
 
 My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
+![SpaceX Launch Success Instances](https://github.com/ac2dc/SpaceX_DataScience_Project/blob/master/images/success.gif)
+
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Week 1](#week1)
 - [Week 2](#week2)
 - [Week 3](#week3)
@@ -22,8 +23,6 @@ My job is to determine the price of each launch. I have to do this by gathering 
 - [Technology Stack](#tech_stack)
 - [Tips & Tricks](#tips_tricks)
 - [Extra Study Materials](#extra_study)
-
-## Introduction <a name = "introduction"></a>
 
 ##   Week 1 : Data Collection and Wrangling<a name = "week1"></a>
 
