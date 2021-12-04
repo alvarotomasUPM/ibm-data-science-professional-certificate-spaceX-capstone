@@ -8,7 +8,7 @@ In this capstone project course I have adquired the knowledge of what data scien
 
 I have taken on the role of a Data Scientist working for a startup that intends to compete with SpaceX and, in the process, follow a Data Science approach in regards to data collection, data discussion, exploratory data analysis, data visualization, model development, model evaluation and reporting the results taken for stakeholders.
 
-My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
+My job is to determine the price of each launch. I have to do this by gathering information about SpaceX and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
 <p align="center">
 <img src="https://github.com/ac2dc/SpaceX_DataScience_Project/blob/master/images/success.gif" alt="animated" />
