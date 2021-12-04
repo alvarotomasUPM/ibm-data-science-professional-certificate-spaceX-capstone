@@ -46,6 +46,11 @@ My job is to determine the price of each launch. I have to do this by gathering 
 ##  Week 5 : Present Your Data-Driven Insights <a name = "week5"></a>
  
  
+ #### © Copyright IBM Corporation
+
+<a href="https://www.linkedin.com/in/álvaro-tomás-martínez-57a9761b9/?originalSubdomain=es"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+ 
+ 
   
   
   
