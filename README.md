@@ -40,6 +40,8 @@ My job is to determine the price of each launch. I have to do this by gathering 
 - [Exploratory Analysis Using Pandas and Matplotlib](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/jupyter-labs-eda-dataviz.ipynb)  
   
 ##  Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
+ 
+ - [Interactive Visual Analytics with Folium](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
   
 ##  Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
   
