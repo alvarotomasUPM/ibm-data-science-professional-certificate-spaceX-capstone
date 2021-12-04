@@ -1,5 +1,7 @@
 # Data Science Capstone Project
 
+by <a href="https://www.linkedin.com/in/álvaro-tomás-martínez-57a9761b9/?originalSubdomain=es"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
 # What I have learned on this course
 
 <a href="https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science" rel="noopener"> ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) </a>
@@ -48,7 +50,7 @@ My job is to determine the price of each launch. I have to do this by gathering 
  
  #### © Copyright IBM Corporation
 
-<a href="https://www.linkedin.com/in/álvaro-tomás-martínez-57a9761b9/?originalSubdomain=es"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
  
  
   
