@@ -1,4 +1,4 @@
-# Data Science Capstone Project by
+# Data Science Capstone Project by ... 
 
 <a href="https://www.linkedin.com/in/álvaro-tomás-martínez-57a9761b9/?originalSubdomain=es"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
