@@ -28,6 +28,8 @@ My job is to determine the price of each launch. I have to do this by gathering 
 
 ##   Week 1 : Data Collection and Wrangling<a name = "week1"></a>
 
+- [Collecting the Data via API](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
+
 ##  Week 2 : Exploratory Data Analysis (EDA)<a name = "week2">
   
 ##  Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
