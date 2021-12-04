@@ -6,7 +6,9 @@
 
 In this capstone project course I have adquired the knowledge of what data scientists have to go through in real life when working with real data sets. 
 
-I have taken on the role of a Data Scientist working for a startup that intends to compete with SpaceX and, in the process, follow a Data Science approach in regards to data collection, data discussion, exploratory data analysis, data visualization, model development, model evaluation and reporting the results taken for stakeholders.
+
+ 
+I have taken on the role of a Data Scientist working for a working for a new rocket company. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk, and, in the process, follow a Data Science approach in regards to data collection, data discussion, exploratory data analysis, data visualization, model development, model evaluation and reporting the results taken for stakeholders.
 
 My job is to determine the price of each launch. I have to do this by gathering information about SpaceX and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
