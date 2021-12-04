@@ -20,3 +20,18 @@ I have taken on the role of a Data Scientist working for a startup that intends 
 - [Technology Stack](#tech_stack)
 - [Tips & Tricks](#tips_tricks)
 - [Extra Study Materials](#extra_study)
+
+## Introduction <a name = "introduction"></a>
+
+##   Week 1 : Data Collection and Wrangling<a name = "week1"></a>
+
+##  Week 2 : Exploratory Data Analysis (EDA)<a name = "week2">
+  
+##  Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
+  
+##  Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
+  
+##  Week 5 : Present Your Data-Driven Insights <a name = "week5"></a>
+  
+  
+  
