@@ -18,14 +18,6 @@ My job is to determine the price of each launch. I have to do this by gathering 
 <img src="https://github.com/ac2dc/SpaceX_DataScience_Project/blob/master/images/success.gif" alt="animated" />
 </p>
 
-## Table of Contents
-
-- [Week 1](#week1)
-- [Week 2](#week2)
-- [Week 3](#week3)
-- [Week 4](#week4)
-- [Week 5](#week5)
-
 ##   Week 1 : Data Collection and Wrangling<a name = "week1"></a>
 
 - [Collecting the Data via API](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
@@ -44,8 +36,6 @@ My job is to determine the price of each launch. I have to do this by gathering 
 ##  Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
  
 - [Machine Learning Prediction](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
-  
-##  Week 5 : Present Your Data-Driven Insights <a name = "week5"></a>
  
  
  #### © Copyright IBM Corporation
