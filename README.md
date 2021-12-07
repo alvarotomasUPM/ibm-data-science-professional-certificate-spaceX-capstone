@@ -32,6 +32,8 @@ My job is to determine the price of each launch. I have to do this by gathering 
 ##  Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
  
  - [Interactive Visual Analytics with Folium](https://github.com/alvarotomasUPM/ibm-data-science-professional-certificate-spacex-falcon9-capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
+ 
+ - [Dashboard App on Python](https://github.com/alvarotomasUPM/spacex-falcon9-capstone/blob/main/spacex_dash_app.py)
   
 ##  Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
  
